@@ -1,6 +1,6 @@
-# Secret Santa
+# Secret Weeb
 
-Check it live on [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
+Support the original! Support [arcanis](https://github.com/sponsors/arcanis?frequency=one-time&sponsor=arcanis).
 
 ## License (MIT)
 
