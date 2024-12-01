@@ -1,7 +1,8 @@
 # Secret Weeb
 
 Support the original! Support [arcanis](https://github.com/sponsors/arcanis?frequency=one-time&sponsor=arcanis).
-No plans to sync this fork as this fork is needed for a specific usecase.
+
+No plans to sync this fork as this fork is needed for a specific usecase. Mainly, delegating anime.
 
 ## License (MIT)
 
